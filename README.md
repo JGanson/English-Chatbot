@@ -9,21 +9,21 @@
     This Project is modified base on original Project : https://github.com/zhaoyingjun/chatbot (A Great Thanks!)
 
 ## Explain to Each Folder and File:
-    ChatApp: All Java GUI implemetation
+    ChatApp/: All Java GUI implemetation
     
-    config: all resource Path and some static parameter
+    config/: all resource Path and some static parameter
 
-    icons: image resources
+    icons/: image resources
 
-    train_data: all train data and trained model
+    train_data/: all train data and trained model
 
     data.py: formatting all the dialog inputs and creating dataset
 
-    execute: do training
+    execute.py: do training
 
-    runner: interface between Java GUI and pytorch model
+    runner.py: interface between Java GUI and pytorch model
 
-    seq2seqModel: model class
+    seq2seqModel.py: model class
 
 ## Recommend Environment:
     Java 8, Python: 3.8, Pytorch: 1.12
