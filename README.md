@@ -1,7 +1,8 @@
 # English Chatbot
 
 ## Introduction to the Project:    
-    This is a simple chatbot Project in English. Using Java swing to develop GUI and python pytorch to do the trainning and neural model.
+    This is a simple chatbot Project in English. Using Java swing to develop GUI and python pytorch 
+    to do the trainning and neural model.
 
     This Project only achieve seq2seq model and do not accomplish parallel training (Thus slow in training) 
 
@@ -39,6 +40,6 @@
 
 
 ## 30 epoch trainning model example:
-    
+
 
 ![alt text](./icons/chat_his.JPG?raw=true)
